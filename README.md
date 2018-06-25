@@ -1,4 +1,4 @@
-# Attack game
+# Classic Arcade Game
 
 This game is made with object oriented javascript. It has one player who want to cross the road but there are attackers going from that road. if attackers will meet the player then they will kill him/her.Thre are 10 levels for this game.
 
@@ -11,6 +11,4 @@ Stps to play:
 5. player has 3 lifes to save his life.
 6. after that lifes player will die.
 
-How to load game in your browser
-
-you just have to click on `index.html` file to load game in oyur browser.
+[Click here](https://shitalsb.github.io/ClassicArcadeGame/) to play
