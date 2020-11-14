@@ -190,7 +190,7 @@ function winnerAndGameover(string) {
         div.innerHTML = `<h1>Congratulations You won!!!!!! <p>😍😍😍😍</p></h1><p>Your highest level is : ${count-1}`;
         div.classList.add('rotate');
     } else {
-        div.innerHTML = `<h1>oops you lost you lifes <p>😖😖😖😖</p></h1><p>Your highest level is : ${count-1}</p>`;
+        div.innerHTML = `<h1>oops you lost you lives <p>😖😖😖😖</p></h1><p>Your highest level is : ${count-1}</p>`;
         div.classList.add('bounceInDown');
     }
     // add elements to webpage.
